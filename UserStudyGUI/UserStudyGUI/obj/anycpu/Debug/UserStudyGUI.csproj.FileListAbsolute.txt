@@ -1,0 +1,5 @@
+/Users/kevinpan/Projects/UserStudyGUI/UserStudyGUI/bin/Debug/UserStudyGUI.exe
+/Users/kevinpan/Projects/UserStudyGUI/UserStudyGUI/bin/Debug/UserStudyGUI.pdb
+/Users/kevinpan/Projects/UserStudyGUI/UserStudyGUI/obj/anycpu/Debug/UserStudyGUI.exe
+/Users/kevinpan/Projects/UserStudyGUI/UserStudyGUI/obj/anycpu/Debug/UserStudyGUI.pdb
+/Users/kevinpan/Projects/UserStudyGUI/UserStudyGUI/obj/anycpu/Debug/UserStudyGUI.csprojAssemblyReference.cache

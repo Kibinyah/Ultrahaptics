@@ -1,0 +1,8 @@
+2.
+True Pattern: Pattern 1
+Chosen Pattern: Pattern 2
+ 
+3.
+True Pattern: Pattern 4
+Chosen Pattern: Pattern 3
+ 

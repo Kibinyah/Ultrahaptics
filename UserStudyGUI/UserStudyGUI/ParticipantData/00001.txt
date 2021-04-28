@@ -1,0 +1,174 @@
+1.
+True Pattern: Pattern 2
+Chosen Pattern: Pattern 2
+ 
+2.
+True Pattern: Pattern 2
+Chosen Pattern: Pattern 2
+ 
+3.
+True Pattern: Pattern 4
+Chosen Pattern: Pattern 4
+ 
+4.
+True Pattern: Pattern 1
+Chosen Pattern: Pattern 1
+ 
+5.
+True Pattern: Pattern 4
+Chosen Pattern: Pattern 4
+ 
+6.
+True Pattern: Pattern 1
+Chosen Pattern: Pattern 1
+ 
+7.
+True Pattern: Pattern 4
+Chosen Pattern: Pattern 4
+ 
+8.
+True Pattern: Pattern 4
+Chosen Pattern: Pattern 4
+ 
+9.
+True Pattern: Pattern 3
+Chosen Pattern: Pattern 3
+ 
+10.
+True Pattern: Pattern 1
+Chosen Pattern: Pattern 1
+ 
+11.
+True Pattern: Pattern 2
+Chosen Pattern: Pattern 2
+ 
+12.
+True Pattern: Pattern 4
+Chosen Pattern: Pattern 4
+ 
+13.
+True Pattern: Pattern 1
+Chosen Pattern: Pattern 1
+ 
+14.
+True Pattern: Pattern 3
+Chosen Pattern: Pattern 2
+ 
+15.
+True Pattern: Pattern 2
+Chosen Pattern: Pattern 2
+ 
+16.
+True Pattern: Pattern 2
+Chosen Pattern: Pattern 2
+ 
+17.
+True Pattern: Pattern 4
+Chosen Pattern: Pattern 4
+ 
+18.
+True Pattern: Pattern 3
+Chosen Pattern: Pattern 3
+ 
+19.
+True Pattern: Pattern 1
+Chosen Pattern: Pattern 1
+ 
+20.
+True Pattern: Pattern 2
+Chosen Pattern: Pattern 2
+ 
+_______________________
+Index Finger Range: 73.8775510204082
+Middle Finger Range: 72.1115537848606
+ 
+21.
+True Pattern: Pattern 4
+Chosen Pattern: Pattern 4
+ 
+22.
+True Pattern: Pattern 4
+Chosen Pattern: Pattern 4
+ 
+23.
+True Pattern: Pattern 3
+Chosen Pattern: Pattern 3
+ 
+24.
+True Pattern: Pattern 2
+Chosen Pattern: Pattern 2
+ 
+25.
+True Pattern: Pattern 2
+Chosen Pattern: Pattern 2
+ 
+26.
+True Pattern: Pattern 3
+Chosen Pattern: Pattern 3
+ 
+27.
+True Pattern: Pattern 3
+Chosen Pattern: Pattern 3
+ 
+28.
+True Pattern: Pattern 3
+Chosen Pattern: Pattern 3
+ 
+29.
+True Pattern: Pattern 1
+Chosen Pattern: Pattern 1
+ 
+30.
+True Pattern: Pattern 3
+Chosen Pattern: Pattern 3
+ 
+31.
+True Pattern: Pattern 1
+Chosen Pattern: Pattern 1
+ 
+32.
+True Pattern: Pattern 2
+Chosen Pattern: Pattern 2
+ 
+33.
+True Pattern: Pattern 1
+Chosen Pattern: Pattern 1
+ 
+34.
+True Pattern: Pattern 2
+Chosen Pattern: Pattern 2
+ 
+35.
+True Pattern: Pattern 4
+Chosen Pattern: Pattern 4
+ 
+36.
+True Pattern: Pattern 3
+Chosen Pattern: Pattern 3
+ 
+37.
+True Pattern: Pattern 1
+Chosen Pattern: Pattern 1
+ 
+38.
+True Pattern: Pattern 3
+Chosen Pattern: Pattern 3
+ 
+39.
+True Pattern: Pattern 1
+Chosen Pattern: Pattern 1
+ 
+40.
+True Pattern: Pattern 4
+Chosen Pattern: Pattern 4
+ 
+_______________________
+Index Finger Range: 73.8775510204082
+Middle Finger Range: 72.1115537848606
+ 
+39/40
+Pattern 1: 10/10
+Pattern 2: 10/10
+Pattern 3: 9/10
+Pattern 4: 10/10
+

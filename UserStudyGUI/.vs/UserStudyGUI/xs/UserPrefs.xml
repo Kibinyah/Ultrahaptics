@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{3C5955CA-3D24-4F99-B9CD-88F92A4F2174}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UserStudyGUI/MainWindow.cs">
+    <Files>
+      <File FileName="UserStudyGUI/gtk-gui/MainWindow.cs" Line="9" Column="1" />
+      <File FileName="UserStudyGUI/Program.cs" />
+      <File FileName="UserStudyGUI/MainWindow.cs" Line="273" Column="10" />
+      <File FileName="UserStudyGUI/Properties/AssemblyInfo.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.UserStudyGUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
